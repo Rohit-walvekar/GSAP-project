@@ -1,4 +1,4 @@
-# ✨ GSAP Wizard
+# GSAP Wizard
 
 **GSAP Wizard** is a modern and interactive landing page built using **HTML, CSS, JavaScript, and GSAP (GreenSock Animation Platform)**. The project focuses on creating smooth animations, engaging scroll effects, and visually appealing transitions to deliver an immersive user experience.
 
@@ -6,7 +6,7 @@ I built this project to explore GSAP animations and improve my skills in creatin
 
 ---
 
-## ✨ Features
+## Features
 
 - Smooth animations powered by GSAP
 - Scroll-based animation effects
@@ -17,7 +17,7 @@ I built this project to explore GSAP animations and improve my skills in creatin
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -26,14 +26,14 @@ I built this project to explore GSAP animations and improve my skills in creatin
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
-🌐 **View the Project:**  
+**View the Project:**  
 https://694f7d4e9160170ff8be338d--gsap-wizard.netlify.app/
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 GSAP-Wizard/
@@ -47,7 +47,7 @@ GSAP-Wizard/
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 ### 1. Clone the repository
 
@@ -69,7 +69,7 @@ Or, if you're using **VS Code**, install the **Live Server** extension and click
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 While building this project, I gained hands-on experience with:
 
@@ -82,7 +82,7 @@ While building this project, I gained hands-on experience with:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Add more advanced GSAP timeline animations
 - Improve page loading animations
@@ -92,15 +92,11 @@ While building this project, I gained hands-on experience with:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Rohit Walvekar**
 
-- 💻 GitHub: https://github.com/Rohit-walvekar
-- 🌐 Portfolio: https://portfolio-rohitwalvekar.netlify.app
+- GitHub: https://github.com/Rohit-walvekar
+- Portfolio: https://portfolio-rohitwalvekar.netlify.app
 
----
 
-## ⭐ Support
-
-If you found this project useful or interesting, consider giving it a ⭐ on GitHub. Your support motivates me to continue building and sharing more projects.
